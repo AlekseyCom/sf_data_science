@@ -1,4 +1,4 @@
-# Project 0. Guess the number.
+# Project 1. Guess the number.
 
 ## Table of contents
 * [1. Project description](.README.md#Project-description)
@@ -20,12 +20,16 @@ We need to write a program that guesses the number in minimum number of attempts
 **Competition conditions**
 - The PC guesses an integer number from 0 to 100. We need to predict it. By 'predict' we mean to write a program that guesses a number.
 - The algorithm takes into info about whether a random number is greater or less than one we need.
+- There is a basic template from the screencast.
 
 **Quality metric**
 - The results are evaluated by the average number of attepts with 1000 repetitions.
+-  It is necessary to achieve a minimum number of attempts.
 
 **What we practice**
 - We learn to write good Python code.
+- We learn to work with IDE
+- We learn to work with GitHub
 
 ### The brief info about data
 ....
