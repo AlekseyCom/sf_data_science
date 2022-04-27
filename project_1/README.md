@@ -44,7 +44,7 @@ We need to write a program that guesses the number in minimum number of attempts
 
 
 ### Results
-....
+The algorithm guesses the number in an average of: 4 attepmts
 
 ↑ [Back to the contents](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1/README.md#Table-of-contents)
 
