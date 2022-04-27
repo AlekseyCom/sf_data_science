@@ -1,17 +1,17 @@
 # Project 1. Guess the number.
 
 ## Table of contents
-* [1. Project description](.README.md#Project-description)
-* [2. What case are we solving?](.README.md#What-case-are-we-solving)
-* [3. Brief info about the data](.README.md#Brief-info-about-the-data)
-* [4. Stages of work on the project](.README.md#Stages-of-work-on-the-project)
-* [5. Result](.README.md#Result)
-* [6. Summary](.README.md#Summary)
+* [1. Project description](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Project-description)
+* [2. What case are we solving?](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#What-case-are-we-solving)
+* [3. Brief info about the data](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Brief-info-about-the-data)
+* [4. Stages of work on the project](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Stages-of-work-on-the-project)
+* [5. Result](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Result)
+* [6. Summary](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Summary)
 
 ### Project description
 We need to predict the number hidden by the computer in the minimum number of attempts.
 
-↑ [Back to the contents](.README.md#Table-of-contents)
+↑ [Back to the contents](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Table-of-contents)
 
 
 ### What case are we solving?
@@ -34,25 +34,25 @@ We need to write a program that guesses the number in minimum number of attempts
 ### The brief info about data
 ....
 
-↑ [Back to the contents](.README.md#Table-of-contents)
+↑ [Back to the contents](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Table-of-contents)
 
 
 ### Stages of work on the project
 ....
 
-↑ [Back to the contents](.README.md#Table-of-contents)
+↑ [Back to the contents](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Table-of-contents)
 
 
 ### Results
 ....
 
-↑ [Back to the contents](.README.md#Table-of-contents)
+↑ [Back to the contents](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Table-of-contents)
 
 
 ### Summary
 ....
 
-↑ [Back to the contents](.README.md#Table-of-contents)
+↑ [Back to the contents](https://github.com/AlekseyCom/sf_data_science/tree/main/project_1.README.md#Table-of-contents)
 
 
 
